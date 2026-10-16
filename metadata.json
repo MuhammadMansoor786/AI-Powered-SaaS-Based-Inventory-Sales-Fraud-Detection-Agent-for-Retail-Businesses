@@ -1,0 +1,6 @@
+{
+  "name": "OmniFlow AI - Enterprise SaaS Retail, POS & Fraud Detection System",
+  "description": "Next-generation multi-tenant retail SaaS platform featuring high-speed Point of Sale, predictive restocking forecasting, AI fraud detection radar, multi-branch inventory, and comprehensive role-based access control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
